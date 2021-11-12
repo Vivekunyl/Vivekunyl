@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Vivekunyl
-- 👀 I’m interested in building gui apps for windows.
-- 🌱 I’m currently learning OpenCV c++
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in building web apps and android apps. 
+- 🌱 I’m currently learning MERN stack
+- 💞️ I’m looking to collaborate on... 
+
 - 📫 You can contact me to my instagram "@vivekunyl_21" for any collab on a project , or any specific query. 
 
 <!---
